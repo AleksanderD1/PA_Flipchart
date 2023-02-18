@@ -1,2 +1,6 @@
-package org.pa.markers;public interface MarkerInterface {
+package org.pa.markers.interfaces;
+
+public interface MarkerInterface {
+    Boolean isMarkerWorking();
+    void decreaseMarkerDurability();
 }

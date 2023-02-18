@@ -4,17 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4af2f1d8-139c-4a02-8d48-e015248219f0" name="Changes" comment="" />
+    <list default="true" id="4af2f1d8-139c-4a02-8d48-e015248219f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/Flipchart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/flipchart/paper_block/PaperBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/flipchart/paper_block/interfaces/PaperBlockInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/interfaces/FlipchartInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/markers/FlipchartMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/markers/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/markers/WhiterBoardMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pa/markers/interfaces/MarkerInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Lu5dr34i2y6yyq4awjxxbEAjlA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +53,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.pa.markers" />
+      <recent name="org.pa" />
+      <recent name="org.pa.flipchart.paper_block" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +72,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676708217876</updated>
+      <workItem from="1676708219074" duration="4966000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
