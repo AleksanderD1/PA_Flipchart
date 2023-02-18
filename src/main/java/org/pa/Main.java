@@ -52,6 +52,9 @@ public class Main {
 
         System.out.println("");
         flipchart.getHighestNoteNumberPaperBlock()
-                .ifPresent(c -> System.out.println("The highest note number is: " + c.getNotes().size() + " Notes"));
+                .ifPresent(c -> {
+                    int noteSize = c.getNotes().size() + 1;
+                    System.out.println("The highest note number is: " + noteSize + " Notes");
+                });
     }
 }
